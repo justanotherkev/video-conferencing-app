@@ -55,9 +55,13 @@ function App() {
 
 
 
+
          {/* WORK ON THE FOOTER SECTION
           */}
         <div className="footer">
+          <div className="station">
+            
+          </div>
 
           <div className="microphone">
             <Mic />
