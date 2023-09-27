@@ -1,0 +1,3 @@
+outlines: #303030
+icons: green
+darkest
